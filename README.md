@@ -10,3 +10,10 @@ Scholars and practitioners in international relations have a strong interest in 
 - Forecasting
 - Cross-Validation
 - Resampling Methods
+
+## File Descriptions
+
+- ConflictForecastingJDMS.pdf - a copy of the published article
+
+- ConflictForecastingAnalysis.R - R code to replicate the analysis
+- ClusterDataMerged.dta - replication data for the analysis
